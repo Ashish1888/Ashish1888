@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Vishwakarma</h1>
-<h3 align="center">A passionate Data engineer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1888&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1888" /> </p>
 
-- 🔭 I’m currently working on **Youtube Analytics Visualizer via pipeline**
+- 🔭 I’m currently working on ** Azure & Genai **
 
-- 🌱 I’m currently learning **PySpark, Airflow, Machine Learning**
+- 🌱 I’m currently learning **Azure, Retrival Augumented Generation, LLM, Langchain Machine Learning**
 
-- 👯 I’m looking for **Data Engineer Roles**
+- 👯 I’m looking for **Genai / Data Scientist Roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish1888](https://github.com/Ashish1888)
 
